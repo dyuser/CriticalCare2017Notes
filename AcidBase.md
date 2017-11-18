@@ -16,6 +16,7 @@
 * Potassium Wasting Diuretics (Lasix)
 
 ### Respiratory Acidosis (Hypoventilation)
+* High ETCO2
 * Overdose
 * Airway Obstruction
 * Chest Trauma
@@ -24,6 +25,7 @@
 * Neuromuscular Disease
 
 ### Respiratory Alkalosis (Hyperventilation)
+* Low ETCO2
 * Anxiety
 * High Altitude
 * Pregnancy
@@ -48,4 +50,3 @@
 
 ### ABG Interpretation
 * https://www.youtube.com/watch?v=EUni6kzh0sk
-

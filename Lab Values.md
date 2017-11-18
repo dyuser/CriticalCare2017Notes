@@ -2,6 +2,7 @@
 
 | Lab | Normal Range |
 | --- | ------------ |
+| PH | 7.35-7.45 |
 | Sodium | 135-147 mEq/L |
 | Potassium | 3.5-5.0 mEq/L |
 | Chloride | 95-107 mEq/L |
