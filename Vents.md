@@ -27,8 +27,7 @@
 ##### PS=difference of ipap (inspitory Pressure) and epap (PEEP)
 - greater the ps greater the air movement.  Oxygenation vs ventilation issue.
 
-
-`Bajiggidy at 14 Peep`
+[Bajiggity][6fdc6614] at 14 PEEP
 
 ## Vent Modes
 
@@ -61,3 +60,5 @@
 
 ##### Dont Ask......
 ![Sloth](http://all-things-sloth.com/wp-content/uploads/2014/10/dead-sloth.jpg)
+
+[6fdc6614]: https://www.youtube.com/watch?v=sAA60itmJfI "Bajiggity"
